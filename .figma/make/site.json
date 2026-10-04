@@ -1,0 +1,11 @@
+{
+  "title": "WARDEN — AI Defense Intelligence",
+  "description": "A research concept for connecting security events, explaining unusual activity, and giving analysts a clearer next step. Your team stays in command.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
